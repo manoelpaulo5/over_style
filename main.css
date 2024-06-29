@@ -1,0 +1,56 @@
+    h1,
+    section footer h4 {
+        font-family: "Danfo", serif;
+    }
+    
+    .nav-main button,
+    section h3 {
+        font-family: "Rock Salt", cursive;
+        font-weight: bold;
+    }
+    
+    section p {
+        font-size: larger;
+    }
+
+    nav li a,
+    section p {
+        font-family: "Handlee", cursive;
+    }
+
+    header {
+        background-color: rgba(0, 0, 0, 0.801);
+        color: antiquewhite;
+    }
+
+    header .nav-link,
+    header .nav-link:hover {
+        color: antiquewhite;
+    }
+
+    #menu-navegacao .nav-link.active {
+        background-color: antiquewhite;
+        color: rgba(0, 0, 0, 0.801);
+        font-weight: bolder;
+    }
+
+    .carousel img {
+        height: 700px;
+    }
+
+    .loja img {
+        height: 400px;
+    }
+
+    .card img {
+        height: 400px;
+    }
+
+    .social-links li {
+        list-style: none;
+        display: inline;
+    }
+
+    .social-links a {
+        text-decoration: none;
+    }
